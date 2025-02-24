@@ -45,21 +45,6 @@ npm run dev
 Открой в браузере: [http://localhost:5173](http://localhost:5173)
 
 ---
-
-## 🚀 **Развертывание на GitHub Pages**
-
-Собери проект и разверни на GitHub Pages:
-
-```sh
-npm run build
-npx gh-pages -d dist
-```
-
-После этого сайт будет доступен по адресу:\
-🔗 [https://valeriyalukovkina.github.io/gamementalarithmetic/](https://valeriyalukovkina.github.io/gamementalarithmetic/)
-
----
-
 ## 🛠 **Технологии**
 
 - ⚡ **Vue 3 + Vite**
