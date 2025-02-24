@@ -11,4 +11,5 @@ export default defineConfig({
       sassVariables: 'src/assets/styles/quasar-variables.sass',
     }),
   ],
+  base: 'gamementalarithmetic'
 });
